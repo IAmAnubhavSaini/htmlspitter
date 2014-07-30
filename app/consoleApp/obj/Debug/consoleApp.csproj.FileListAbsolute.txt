@@ -1,0 +1,16 @@
+D:\Sources\VS13onlineRepos\HTML spitter\HTMLSpitterSolution\consoleApp\bin\Debug\consoleApp.exe.config
+D:\Sources\VS13onlineRepos\HTML spitter\HTMLSpitterSolution\consoleApp\bin\Debug\consoleApp.exe
+D:\Sources\VS13onlineRepos\HTML spitter\HTMLSpitterSolution\consoleApp\bin\Debug\consoleApp.pdb
+D:\Sources\VS13onlineRepos\HTML spitter\HTMLSpitterSolution\consoleApp\bin\Debug\HTMLSpitterLib.dll
+D:\Sources\VS13onlineRepos\HTML spitter\HTMLSpitterSolution\consoleApp\bin\Debug\HTMLSpitterLib.pdb
+D:\Sources\VS13onlineRepos\HTML spitter\HTMLSpitterSolution\consoleApp\obj\Debug\consoleApp.csprojResolveAssemblyReference.cache
+D:\Sources\VS13onlineRepos\HTML spitter\HTMLSpitterSolution\consoleApp\obj\Debug\consoleApp.exe
+D:\Sources\VS13onlineRepos\HTML spitter\HTMLSpitterSolution\consoleApp\obj\Debug\consoleApp.pdb
+D:\Sources\htmlspitter\app\consoleApp\bin\Debug\consoleApp.exe.config
+D:\Sources\htmlspitter\app\consoleApp\bin\Debug\consoleApp.exe
+D:\Sources\htmlspitter\app\consoleApp\bin\Debug\consoleApp.pdb
+D:\Sources\htmlspitter\app\consoleApp\bin\Debug\HTMLSpitterLib.dll
+D:\Sources\htmlspitter\app\consoleApp\bin\Debug\HTMLSpitterLib.pdb
+D:\Sources\htmlspitter\app\consoleApp\obj\Debug\consoleApp.csprojResolveAssemblyReference.cache
+D:\Sources\htmlspitter\app\consoleApp\obj\Debug\consoleApp.exe
+D:\Sources\htmlspitter\app\consoleApp\obj\Debug\consoleApp.pdb

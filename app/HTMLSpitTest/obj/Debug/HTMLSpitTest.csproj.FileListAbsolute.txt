@@ -1,0 +1,7 @@
+D:\Sources\VS13onlineRepos\HTML spitter\HTMLSpitterSolution\HTMLSpitTest\bin\Debug\HTMLSpitTest.dll
+D:\Sources\VS13onlineRepos\HTML spitter\HTMLSpitterSolution\HTMLSpitTest\bin\Debug\HTMLSpitTest.pdb
+D:\Sources\VS13onlineRepos\HTML spitter\HTMLSpitterSolution\HTMLSpitTest\bin\Debug\HTMLSpitterLib.dll
+D:\Sources\VS13onlineRepos\HTML spitter\HTMLSpitterSolution\HTMLSpitTest\bin\Debug\HTMLSpitterLib.pdb
+D:\Sources\VS13onlineRepos\HTML spitter\HTMLSpitterSolution\HTMLSpitTest\obj\Debug\HTMLSpitTest.csprojResolveAssemblyReference.cache
+D:\Sources\VS13onlineRepos\HTML spitter\HTMLSpitterSolution\HTMLSpitTest\obj\Debug\HTMLSpitTest.dll
+D:\Sources\VS13onlineRepos\HTML spitter\HTMLSpitterSolution\HTMLSpitTest\obj\Debug\HTMLSpitTest.pdb

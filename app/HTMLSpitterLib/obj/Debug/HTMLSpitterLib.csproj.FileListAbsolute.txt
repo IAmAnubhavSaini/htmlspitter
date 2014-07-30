@@ -1,0 +1,5 @@
+D:\Sources\VS13onlineRepos\HTML spitter\HTMLSpitterSolution\HTMLSpitterLib\bin\Debug\HTMLSpitterLib.dll
+D:\Sources\VS13onlineRepos\HTML spitter\HTMLSpitterSolution\HTMLSpitterLib\bin\Debug\HTMLSpitterLib.pdb
+D:\Sources\VS13onlineRepos\HTML spitter\HTMLSpitterSolution\HTMLSpitterLib\obj\Debug\HTMLSpitterLib.csprojResolveAssemblyReference.cache
+D:\Sources\VS13onlineRepos\HTML spitter\HTMLSpitterSolution\HTMLSpitterLib\obj\Debug\HTMLSpitterLib.dll
+D:\Sources\VS13onlineRepos\HTML spitter\HTMLSpitterSolution\HTMLSpitterLib\obj\Debug\HTMLSpitterLib.pdb
